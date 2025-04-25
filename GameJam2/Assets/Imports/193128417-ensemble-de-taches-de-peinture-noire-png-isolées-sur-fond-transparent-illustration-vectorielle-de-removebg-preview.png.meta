@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: debed054b2713464e8152c0536b27837
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8925473690403273547
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_0"
+  - first:
+      213: 6112456070937676669
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_1"
+  - first:
+      213: -2482746690683008760
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_2"
+  - first:
+      213: -5381567458964511008
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_3"
+  - first:
+      213: -5656315256894939276
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_4"
+  - first:
+      213: 4797939850547656765
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_5"
+  - first:
+      213: 3241856166138716047
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_6"
+  - first:
+      213: 3497891211270711369
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_7"
+  - first:
+      213: -910503073906056191
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_8"
+  - first:
+      213: 3259179832553183035
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_9"
+  - first:
+      213: -2534897780069717627
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_10"
+  - first:
+      213: 7144262005996709901
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_11"
+  - first:
+      213: -4811303971179347411
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_12"
+  - first:
+      213: 4015964712705067212
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_13"
+  - first:
+      213: 4686070193041420590
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_14"
+  - first:
+      213: -807779016541411212
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_15"
+  - first:
+      213: -4427910038336674865
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_16"
+  - first:
+      213: 1333588476478512925
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_17"
+  - first:
+      213: -2948884059222122133
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_18"
+  - first:
+      213: 3500020571680428531
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_19"
+  - first:
+      213: 1434084448451948194
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_20"
+  - first:
+      213: -5649675486628298705
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_21"
+  - first:
+      213: -911177833530479921
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_22"
+  - first:
+      213: -5947912042676497596
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_23"
+  - first:
+      213: 5819960065174410006
+    second: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_24"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_0"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 290
+        width: 332
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bf4904807addb70800000000000000
+      internalID: 8925473690403273547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_1"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 205
+        width: 309
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b8b6d496ec3d450800000000000000
+      internalID: 6112456070937676669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_2"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 335
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809009af9038b8dd0800000000000000
+      internalID: -2482746690683008760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_3"
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 296
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e66e99a8e4d055b0800000000000000
+      internalID: -5381567458964511008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_4"
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 290
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f97270e3bb081b0800000000000000
+      internalID: -5656315256894939276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_5"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 179
+        width: 284
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38759d9fd4b59240800000000000000
+      internalID: 4797939850547656765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_6"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 236
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f9b9bc1036dfc20800000000000000
+      internalID: 3241856166138716047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_7"
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 232
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94860c626810b8030800000000000000
+      internalID: 3497891211270711369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_8"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104ade0474e3d53f0800000000000000
+      internalID: -910503073906056191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_9"
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 205
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3713723aceea3d20800000000000000
+      internalID: 3259179832553183035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_10"
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589a40546eb32dcd0800000000000000
+      internalID: -2534897780069717627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_11"
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 115
+        width: 284
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08e0c94174852360800000000000000
+      internalID: 7144262005996709901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_12"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 122
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22cd639780da3db0800000000000000
+      internalID: -4811303971179347411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_13"
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 9
+        width: 126
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc80a43f0a29bb730800000000000000
+      internalID: 4015964712705067212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_14"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 137
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b7c04304480140800000000000000
+      internalID: 4686070193041420590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_15"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 54
+        width: 162
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478e806a3413ac4f0800000000000000
+      internalID: -807779016541411212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_16"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 108
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc36e8bb747ec82c0800000000000000
+      internalID: -4427910038336674865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_17"
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 113
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f5e0957abd18210800000000000000
+      internalID: 1333588476478512925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_18"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 18
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61e04e62957317d0800000000000000
+      internalID: -2948884059222122133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_19"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f152918a22929030800000000000000
+      internalID: 3500020571680428531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_20"
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 90
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aee3ef2534e6e310800000000000000
+      internalID: 1434084448451948194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_21"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 36
+        width: 305
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20c94304125891b0800000000000000
+      internalID: -5649675486628298705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_22"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 20
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaa4398698da53f0800000000000000
+      internalID: -911177833530479921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_23"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443dff4b285c47da0800000000000000
+      internalID: -5947912042676497596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_24"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6131ea308d6a4c050800000000000000
+      internalID: 5819960065174410006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_0": 8925473690403273547
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_1": 6112456070937676669
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_10": -2534897780069717627
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_11": 7144262005996709901
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_12": -4811303971179347411
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_13": 4015964712705067212
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_14": 4686070193041420590
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_15": -807779016541411212
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_16": -4427910038336674865
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_17": 1333588476478512925
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_18": -2948884059222122133
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_19": 3500020571680428531
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_2": -2482746690683008760
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_20": 1434084448451948194
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_21": -5649675486628298705
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_22": -911177833530479921
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_23": -5947912042676497596
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_24": 5819960065174410006
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_3": -5381567458964511008
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_4": -5656315256894939276
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_5": 4797939850547656765
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_6": 3241856166138716047
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_7": 3497891211270711369
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_8": -910503073906056191
+      "193128417-ensemble-de-taches-de-peinture-noire-png-isol\xE9es-sur-fond-transparent-illustration-vectorielle-de-removebg-preview_9": 3259179832553183035
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

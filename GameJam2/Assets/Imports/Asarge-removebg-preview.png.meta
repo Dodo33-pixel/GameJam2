@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: a6698d5180becbb42ae490dc9b8e7b5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6597888058591614468
+    second: Asarge-removebg-preview_0
+  - first:
+      213: 122197837389260613
+    second: Asarge-removebg-preview_1
+  - first:
+      213: 3299906676742670306
+    second: Asarge-removebg-preview_2
+  - first:
+      213: 3887605281644460379
+    second: Asarge-removebg-preview_3
+  - first:
+      213: 7841474364765340799
+    second: Asarge-removebg-preview_4
+  - first:
+      213: -5073282563233401816
+    second: Asarge-removebg-preview_5
+  - first:
+      213: -1100683406612231323
+    second: Asarge-removebg-preview_6
+  - first:
+      213: -3108501491765089063
+    second: Asarge-removebg-preview_7
+  - first:
+      213: 4029693932316224460
+    second: Asarge-removebg-preview_8
+  - first:
+      213: 1334196568093156704
+    second: Asarge-removebg-preview_9
+  - first:
+      213: 5867244131866073788
+    second: Asarge-removebg-preview_10
+  - first:
+      213: -827512837154740139
+    second: Asarge-removebg-preview_11
+  - first:
+      213: -7651389979307735909
+    second: Asarge-removebg-preview_12
+  - first:
+      213: 6427850113562493933
+    second: Asarge-removebg-preview_13
+  - first:
+      213: 635435942536029667
+    second: Asarge-removebg-preview_14
+  - first:
+      213: -1044951252311252509
+    second: Asarge-removebg-preview_15
+  - first:
+      213: -464364092879531213
+    second: Asarge-removebg-preview_16
+  - first:
+      213: -5097610471644734977
+    second: Asarge-removebg-preview_17
+  - first:
+      213: 3230512133070505218
+    second: Asarge-removebg-preview_18
+  - first:
+      213: -6325630000827908279
+    second: Asarge-removebg-preview_19
+  - first:
+      213: 1245001587986028574
+    second: Asarge-removebg-preview_20
+  - first:
+      213: -3874873657905891628
+    second: Asarge-removebg-preview_21
+  - first:
+      213: -3584065049549621287
+    second: Asarge-removebg-preview_22
+  - first:
+      213: 8087568939766104614
+    second: Asarge-removebg-preview_23
+  - first:
+      213: 1001058347575921160
+    second: Asarge-removebg-preview_24
+  - first:
+      213: 8210327532380228199
+    second: Asarge-removebg-preview_25
+  - first:
+      213: -1311815585266402358
+    second: Asarge-removebg-preview_26
+  - first:
+      213: 5979433270568600311
+    second: Asarge-removebg-preview_27
+  - first:
+      213: 7744766140136191047
+    second: Asarge-removebg-preview_28
+  - first:
+      213: -6936078590530475664
+    second: Asarge-removebg-preview_29
+  - first:
+      213: -8499079657209472544
+    second: Asarge-removebg-preview_30
+  - first:
+      213: -4690172923889667214
+    second: Asarge-removebg-preview_31
+  - first:
+      213: 2592231528491408266
+    second: Asarge-removebg-preview_32
+  - first:
+      213: 4562263235587866357
+    second: Asarge-removebg-preview_33
+  - first:
+      213: 6073936630818022294
+    second: Asarge-removebg-preview_34
+  - first:
+      213: -2915730012437010582
+    second: Asarge-removebg-preview_35
+  - first:
+      213: -259675352590593860
+    second: Asarge-removebg-preview_36
+  - first:
+      213: -5390155169627260286
+    second: Asarge-removebg-preview_37
+  - first:
+      213: -3285178548854939729
+    second: Asarge-removebg-preview_38
+  - first:
+      213: 2306218643947946338
+    second: Asarge-removebg-preview_39
+  - first:
+      213: -1458358939098528052
+    second: Asarge-removebg-preview_40
+  - first:
+      213: -642043481318763600
+    second: Asarge-removebg-preview_41
+  - first:
+      213: -6806638696091296209
+    second: Asarge-removebg-preview_42
+  - first:
+      213: 2884392291708252507
+    second: Asarge-removebg-preview_43
+  - first:
+      213: -2358298045369573827
+    second: Asarge-removebg-preview_44
+  - first:
+      213: 7172808097882129617
+    second: Asarge-removebg-preview_45
+  - first:
+      213: -1429369972537485879
+    second: Asarge-removebg-preview_46
+  - first:
+      213: 6839456989489665505
+    second: Asarge-removebg-preview_47
+  - first:
+      213: 2647124850984469024
+    second: Asarge-removebg-preview_48
+  - first:
+      213: 2748596544669191906
+    second: Asarge-removebg-preview_49
+  - first:
+      213: 2393122845488471633
+    second: Asarge-removebg-preview_50
+  - first:
+      213: 2352286026994123045
+    second: Asarge-removebg-preview_51
+  - first:
+      213: 8232259996283664166
+    second: Asarge-removebg-preview_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 251
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40615207b38609b50800000000000000
+      internalID: 6597888058591614468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 252
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54768e1294222b100800000000000000
+      internalID: 122197837389260613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 249
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7cf2b83af9bcd20800000000000000
+      internalID: 3299906676742670306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 218
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59b95ff76c83f530800000000000000
+      internalID: 3887605281644460379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 275
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f748b2b836382dc60800000000000000
+      internalID: 7841474364765340799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 215
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8243a4d53641899b0800000000000000
+      internalID: -5073282563233401816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 196
+        width: 134
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b06baf54699b0f0800000000000000
+      internalID: -1100683406612231323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 124
+        width: 132
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dce19fdc526cd4d0800000000000000
+      internalID: -3108501491765089063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 73
+        width: 77
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb614df7495ce730800000000000000
+      internalID: 4029693932316224460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 161
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065ecb5b5b4048210800000000000000
+      internalID: 1334196568093156704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 161
+        width: 45
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba5f52b373ac6150800000000000000
+      internalID: 5867244131866073788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 206
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558e05e75751484f0800000000000000
+      internalID: -827512837154740139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 171
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9401654a5dc0d590800000000000000
+      internalID: -7651389979307735909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 175
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3c8504f9f443950800000000000000
+      internalID: 6427850113562493933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 164
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e520608f9581d800800000000000000
+      internalID: 635435942536029667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 198
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e163665f569f71f0800000000000000
+      internalID: -1044951252311252509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 93
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333187d515f3e89f0800000000000000
+      internalID: -464364092879531213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 175
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9dd4ac846a149b0800000000000000
+      internalID: -5097610471644734977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 164
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205c1464ba515dc20800000000000000
+      internalID: 3230512133070505218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 162
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f39146709d638a0800000000000000
+      internalID: -6325630000827908279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 163
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1854b41952274110800000000000000
+      internalID: 1245001587986028574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 12
+        width: 39
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6300720fea93ac0800000000000000
+      internalID: -3874873657905891628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 135
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7b3bd93d7d24ec0800000000000000
+      internalID: -3584065049549621287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 136
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622cd37d911dc3070800000000000000
+      internalID: 8087568939766104614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 144
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ac3b6634974ed00800000000000000
+      internalID: 1001058347575921160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 144
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a0229f361f0f170800000000000000
+      internalID: 8210327532380228199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 96
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbff5decae7bcde0800000000000000
+      internalID: -1311815585266402358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 95
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2c46211e63bf250800000000000000
+      internalID: 5979433270568600311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 131
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7447a4b55cfea7b60800000000000000
+      internalID: 7744766140136191047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 131
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0792d3555491ebf90800000000000000
+      internalID: -6936078590530475664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 157
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9d742f4143d0a80800000000000000
+      internalID: -8499079657209472544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 93
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273b668439829eeb0800000000000000
+      internalID: -4690172923889667214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 95
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b5c4747d479f320800000000000000
+      internalID: 2592231528491408266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 96
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fef909ad3a605f30800000000000000
+      internalID: 4562263235587866357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 95
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69324244f25fa4450800000000000000
+      internalID: 6073936630818022294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 66
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a672fbb700f3987d0800000000000000
+      internalID: -2915730012437010582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 78
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0d9e384a2756cf0800000000000000
+      internalID: -259675352590593860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 79
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ab1267e625235b0800000000000000
+      internalID: -5390155169627260286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 79
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf94c3f383b862d0800000000000000
+      internalID: -3285178548854939729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 79
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26186e643a5510020800000000000000
+      internalID: 2306218643947946338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc64408854ed2cbe0800000000000000
+      internalID: -1458358939098528052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 12
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3d3adfad00717f0800000000000000
+      internalID: -642043481318763600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 12
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2edc054b26f981a0800000000000000
+      internalID: -6806638696091296209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 12
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b513524d18b670820800000000000000
+      internalID: 2884392291708252507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 12
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e9f3b2c64a54fd0800000000000000
+      internalID: -2358298045369573827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 67
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d44f4c36feea8360800000000000000
+      internalID: 7172808097882129617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 12
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51b46459bd92ce0800000000000000
+      internalID: -1429369972537485879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 12
+        width: 26
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5181b15e1aaee50800000000000000
+      internalID: 6839456989489665505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 12
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022c903e60a7cb420800000000000000
+      internalID: 2647124850984469024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 12
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee8fd3aef9f42620800000000000000
+      internalID: 2748596544669191906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 12
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e56357c84163120800000000000000
+      internalID: 2393122845488471633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 12
+        width: 24
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5218919bdaff4a020800000000000000
+      internalID: 2352286026994123045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asarge-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 12
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6277529a9dcde3270800000000000000
+      internalID: 8232259996283664166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Asarge-removebg-preview_0: 6597888058591614468
+      Asarge-removebg-preview_1: 122197837389260613
+      Asarge-removebg-preview_10: 5867244131866073788
+      Asarge-removebg-preview_11: -827512837154740139
+      Asarge-removebg-preview_12: -7651389979307735909
+      Asarge-removebg-preview_13: 6427850113562493933
+      Asarge-removebg-preview_14: 635435942536029667
+      Asarge-removebg-preview_15: -1044951252311252509
+      Asarge-removebg-preview_16: -464364092879531213
+      Asarge-removebg-preview_17: -5097610471644734977
+      Asarge-removebg-preview_18: 3230512133070505218
+      Asarge-removebg-preview_19: -6325630000827908279
+      Asarge-removebg-preview_2: 3299906676742670306
+      Asarge-removebg-preview_20: 1245001587986028574
+      Asarge-removebg-preview_21: -3874873657905891628
+      Asarge-removebg-preview_22: -3584065049549621287
+      Asarge-removebg-preview_23: 8087568939766104614
+      Asarge-removebg-preview_24: 1001058347575921160
+      Asarge-removebg-preview_25: 8210327532380228199
+      Asarge-removebg-preview_26: -1311815585266402358
+      Asarge-removebg-preview_27: 5979433270568600311
+      Asarge-removebg-preview_28: 7744766140136191047
+      Asarge-removebg-preview_29: -6936078590530475664
+      Asarge-removebg-preview_3: 3887605281644460379
+      Asarge-removebg-preview_30: -8499079657209472544
+      Asarge-removebg-preview_31: -4690172923889667214
+      Asarge-removebg-preview_32: 2592231528491408266
+      Asarge-removebg-preview_33: 4562263235587866357
+      Asarge-removebg-preview_34: 6073936630818022294
+      Asarge-removebg-preview_35: -2915730012437010582
+      Asarge-removebg-preview_36: -259675352590593860
+      Asarge-removebg-preview_37: -5390155169627260286
+      Asarge-removebg-preview_38: -3285178548854939729
+      Asarge-removebg-preview_39: 2306218643947946338
+      Asarge-removebg-preview_4: 7841474364765340799
+      Asarge-removebg-preview_40: -1458358939098528052
+      Asarge-removebg-preview_41: -642043481318763600
+      Asarge-removebg-preview_42: -6806638696091296209
+      Asarge-removebg-preview_43: 2884392291708252507
+      Asarge-removebg-preview_44: -2358298045369573827
+      Asarge-removebg-preview_45: 7172808097882129617
+      Asarge-removebg-preview_46: -1429369972537485879
+      Asarge-removebg-preview_47: 6839456989489665505
+      Asarge-removebg-preview_48: 2647124850984469024
+      Asarge-removebg-preview_49: 2748596544669191906
+      Asarge-removebg-preview_5: -5073282563233401816
+      Asarge-removebg-preview_50: 2393122845488471633
+      Asarge-removebg-preview_51: 2352286026994123045
+      Asarge-removebg-preview_52: 8232259996283664166
+      Asarge-removebg-preview_6: -1100683406612231323
+      Asarge-removebg-preview_7: -3108501491765089063
+      Asarge-removebg-preview_8: 4029693932316224460
+      Asarge-removebg-preview_9: 1334196568093156704
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

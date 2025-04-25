@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: e8c2cad6039f6064da717100e1024c06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3285223228303037468
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_0
+  - first:
+      213: 90960208034132243
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_1
+  - first:
+      213: -3064353229392053126
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_2
+  - first:
+      213: -8376402106772650174
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_3
+  - first:
+      213: 1609534620263321939
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_4
+  - first:
+      213: 5401843621459629099
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_5
+  - first:
+      213: -3926457168655595729
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_6
+  - first:
+      213: 3673537938074937598
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_7
+  - first:
+      213: -2716265655253699806
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_8
+  - first:
+      213: 3975944016803450596
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_9
+  - first:
+      213: 6925467623109116253
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_10
+  - first:
+      213: 6918428590342702373
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_11
+  - first:
+      213: -1029971476528389526
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_12
+  - first:
+      213: 8676537094203620740
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_13
+  - first:
+      213: -6811107096565336592
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_14
+  - first:
+      213: 3822316159529232425
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_15
+  - first:
+      213: 2303334247738944036
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_16
+  - first:
+      213: -2288414354914068201
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_17
+  - first:
+      213: -4622968120527783196
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_18
+  - first:
+      213: -3529485395506414793
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_19
+  - first:
+      213: -5221186252374595072
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_20
+  - first:
+      213: 5725087066722740172
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_21
+  - first:
+      213: -7771027264126588368
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_22
+  - first:
+      213: -2276128340144736740
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_23
+  - first:
+      213: 8232095574611027246
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_24
+  - first:
+      213: 8309935923301847673
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_25
+  - first:
+      213: -4742853348538751822
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_26
+  - first:
+      213: 1439495703436938811
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_27
+  - first:
+      213: -2898429185894778949
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_28
+  - first:
+      213: 8136430777907966885
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_29
+  - first:
+      213: -5241375807157052451
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_30
+  - first:
+      213: -8675904656636667060
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_31
+  - first:
+      213: -2324869308237356331
+    second: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 455
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba22531ea8862d0800000000000000
+      internalID: -3285223228303037468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 457
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311f198c3d7234100800000000000000
+      internalID: 90960208034132243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 459
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cf3c739fa3975d0800000000000000
+      internalID: -3064353229392053126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 463
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2478bf9f9aa01cb80800000000000000
+      internalID: -8376402106772650174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 463
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3511d7e9537365610800000000000000
+      internalID: 1609534620263321939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 463
+        width: 84
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b249f4d472437fa40800000000000000
+      internalID: 5401843621459629099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 463
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f274f74220c6289c0800000000000000
+      internalID: -3926457168655595729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 459
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8a0eb9a470bf230800000000000000
+      internalID: 3673537938074937598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 440
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223720727c2ed4ad0800000000000000
+      internalID: -2716265655253699806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 458
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eec86094046d2730800000000000000
+      internalID: 3975944016803450596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 458
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5143ea4c143c1060800000000000000
+      internalID: 6925467623109116253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 440
+        width: 97
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5258843c522330060800000000000000
+      internalID: 6918428590342702373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 314
+        width: 108
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62adbc266ec4b1f0800000000000000
+      internalID: -1029971476528389526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 333
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48db1845480496870800000000000000
+      internalID: 8676537094203620740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 325
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5b416be261a71a0800000000000000
+      internalID: -6811107096565336592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928a9fbab489b0530800000000000000
+      internalID: 3822316159529232425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 264
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42aa8737b4617ff10800000000000000
+      internalID: 2303334247738944036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 264
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719317cc44bed30e0800000000000000
+      internalID: -2288414354914068201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 264
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea7cf7ecfae7dfb0800000000000000
+      internalID: -4622968120527783196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 265
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b39e89bbfb40fc0800000000000000
+      internalID: -3529485395506414793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 265
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a2f0934ce9a87b0800000000000000
+      internalID: -5221186252374595072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 264
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72138ba58937f40800000000000000
+      internalID: 5725087066722740172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 33
+        width: 152
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aebdd30e3c72490800000000000000
+      internalID: -7771027264126588368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 200
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16397685519960e0800000000000000
+      internalID: -2276128340144736740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 134
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2561c14f474e3270800000000000000
+      internalID: 8232095574611027246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 117
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9721aaeb1b2d25370800000000000000
+      internalID: 8309935923301847673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 93
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4639a12000e2eb0800000000000000
+      internalID: -4742853348538751822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e4f0b27bd1af310800000000000000
+      internalID: 1439495703436938811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 15
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7fd101306b6c7d0800000000000000
+      internalID: -2898429185894778949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 56
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a372c01fa86ae070800000000000000
+      internalID: 8136430777907966885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 57
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbd3103974e247b0800000000000000
+      internalID: -5241375807157052451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 43
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b93048eaef89780800000000000000
+      internalID: -8675904656636667060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 38
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2ed4d8ea76cbfd0800000000000000
+      internalID: -2324869308237356331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_0: -3285223228303037468
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_1: 90960208034132243
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_10: 6925467623109116253
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_11: 6918428590342702373
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_12: -1029971476528389526
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_13: 8676537094203620740
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_14: -6811107096565336592
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_15: 3822316159529232425
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_16: 2303334247738944036
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_17: -2288414354914068201
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_18: -4622968120527783196
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_19: -3529485395506414793
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_2: -3064353229392053126
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_20: -5221186252374595072
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_21: 5725087066722740172
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_22: -7771027264126588368
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_23: -2276128340144736740
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_24: 8232095574611027246
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_25: 8309935923301847673
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_26: -4742853348538751822
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_27: 1439495703436938811
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_28: -2898429185894778949
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_29: 8136430777907966885
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_3: -8376402106772650174
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_30: -5241375807157052451
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_31: -8675904656636667060
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_32: -2324869308237356331
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_4: 1609534620263321939
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_5: 5401843621459629099
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_6: -3926457168655595729
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_7: 3673537938074937598
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_8: -2716265655253699806
+      https___twitter_com_imo_dekai_status_1753894910175199676-removebg-preview_9: 3975944016803450596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

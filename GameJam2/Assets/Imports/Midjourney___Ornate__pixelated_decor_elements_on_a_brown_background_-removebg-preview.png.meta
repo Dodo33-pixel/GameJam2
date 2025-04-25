@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: ed964968bd2dbb242862f10ece155eb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 238471424654961618
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_0
+  - first:
+      213: -5988201338990586527
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_1
+  - first:
+      213: -7940285546029312288
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_2
+  - first:
+      213: 1885332180288233227
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_3
+  - first:
+      213: 113198764818871388
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_4
+  - first:
+      213: 1564231711593960947
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_5
+  - first:
+      213: 4183177936751144409
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_6
+  - first:
+      213: -8623623905105089098
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_7
+  - first:
+      213: 1432775594177609760
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_8
+  - first:
+      213: 2055785137724365742
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_9
+  - first:
+      213: -828808419223053208
+    second: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 376
+        width: 119
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbe3ab4f783f4300800000000000000
+      internalID: 238471424654961618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 382
+        width: 92
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16592f9eb92a5eca0800000000000000
+      internalID: -5988201338990586527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 381
+        width: 73
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e611c58d507ec190800000000000000
+      internalID: -7940285546029312288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 295
+        width: 134
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f51b901ab0a2a10800000000000000
+      internalID: 1885332180288233227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 278
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54ba064da9229100800000000000000
+      internalID: 113198764818871388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 284
+        width: 92
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f595fb347445b510800000000000000
+      internalID: 1564231711593960947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 284
+        width: 84
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddad488b22ad0a30800000000000000
+      internalID: 4183177936751144409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 115
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bde4ab8fbbb25880800000000000000
+      internalID: -8623623905105089098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 8
+        width: 96
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0204ecdcfcd32e310800000000000000
+      internalID: 1432775594177609760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 12
+        width: 114
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9694d0bd978c10800000000000000
+      internalID: 2055785137724365742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 8
+        width: 96
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c5b59422b7f74f0800000000000000
+      internalID: -828808419223053208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_0: 238471424654961618
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_1: -5988201338990586527
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_10: -828808419223053208
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_2: -7940285546029312288
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_3: 1885332180288233227
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_4: 113198764818871388
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_5: 1564231711593960947
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_6: 4183177936751144409
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_7: -8623623905105089098
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_8: 1432775594177609760
+      Midjourney___Ornate__pixelated_decor_elements_on_a_brown_background_-removebg-preview_9: 2055785137724365742
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

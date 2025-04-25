@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: bda3178d50377f54c89d516e19ecb5b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1838894432038133741
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_0
+  - first:
+      213: 7299792244881290401
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_1
+  - first:
+      213: -179094297636140429
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_2
+  - first:
+      213: -6149734623228159105
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_3
+  - first:
+      213: -781010137060871179
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_4
+  - first:
+      213: 1404009459468189918
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_5
+  - first:
+      213: -5280170957968602077
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_6
+  - first:
+      213: -5578312895587165736
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_7
+  - first:
+      213: -6702253746555303532
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_8
+  - first:
+      213: 2848379668497531527
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_9
+  - first:
+      213: 713029381105832900
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_10
+  - first:
+      213: -6404860139022130224
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_11
+  - first:
+      213: 36842421464130231
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_12
+  - first:
+      213: -3249276214075221076
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_13
+  - first:
+      213: -8060402795314454337
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_14
+  - first:
+      213: 4977826739991184258
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_15
+  - first:
+      213: -6899156270066583646
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_16
+  - first:
+      213: -8211180401840930898
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_17
+  - first:
+      213: 9195176528060688984
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_18
+  - first:
+      213: 3684007037340194316
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_19
+  - first:
+      213: 3128034700816742238
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_20
+  - first:
+      213: -3734459804466689007
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_21
+  - first:
+      213: -8172219502687893164
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_22
+  - first:
+      213: 2849962759874083956
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_23
+  - first:
+      213: 3937375030988400653
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_24
+  - first:
+      213: 4124834881204094585
+    second: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 481
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3106ce6c14fea76e0800000000000000
+      internalID: -1838894432038133741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 481
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4fc4aee521e4560800000000000000
+      internalID: 7299792244881290401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 480
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a89186faab38df0800000000000000
+      internalID: -179094297636140429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 484
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b909f51f0c7aaa0800000000000000
+      internalID: -6149734623228159105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 482
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3f1861b6b4925f0800000000000000
+      internalID: -781010137060871179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 370
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0c3e42a2b0c7310800000000000000
+      internalID: 1404009459468189918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 369
+        width: 13
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c82f04d7019b6b0800000000000000
+      internalID: -5280170957968602077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 374
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9db840af9d592b0800000000000000
+      internalID: -5578312895587165736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 370
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4994a024abfccf2a0800000000000000
+      internalID: -6702253746555303532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 372
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7828d36973a778720800000000000000
+      internalID: 2848379668497531527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 261
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3da3fb17035e900800000000000000
+      internalID: 713029381105832900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 262
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3e68153ad5d17a0800000000000000
+      internalID: -6404860139022130224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 262
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e804bcf3e28000800000000000000
+      internalID: 36842421464130231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 260
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab9beaaf7048e2d0800000000000000
+      internalID: -3249276214075221076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 260
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb067be0d52b32090800000000000000
+      internalID: -8060402795314454337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 151
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2838d9edb0bc41540800000000000000
+      internalID: 4977826739991184258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 146
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7b5c8fce54140a0800000000000000
+      internalID: -6899156270066583646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 171
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf3f91ede60c0e80800000000000000
+      internalID: -8211180401840930898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 151
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a211a8554db9f70800000000000000
+      internalID: 9195176528060688984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 148
+        width: 46
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0693bab1e8302330800000000000000
+      internalID: 3684007037340194316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 146
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57f643ccf2096b20800000000000000
+      internalID: 3128034700816742238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 34
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cc9c608988c2cc0800000000000000
+      internalID: -3734459804466689007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 37
+        width: 51
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459c4cb19a1769e80800000000000000
+      internalID: -8172219502687893164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 37
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cf265c70a1d8720800000000000000
+      internalID: 2849962759874083956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 37
+        width: 50
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d086e85cabd54a630800000000000000
+      internalID: 3937375030988400653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 37
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9768f4b587b5e3930800000000000000
+      internalID: 4124834881204094585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_0: -1838894432038133741
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_1: 7299792244881290401
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_10: 713029381105832900
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_11: -6404860139022130224
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_12: 36842421464130231
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_13: -3249276214075221076
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_14: -8060402795314454337
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_15: 4977826739991184258
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_16: -6899156270066583646
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_17: -8211180401840930898
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_18: 9195176528060688984
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_19: 3684007037340194316
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_2: -179094297636140429
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_20: 3128034700816742238
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_21: -3734459804466689007
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_22: -8172219502687893164
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_23: 2849962759874083956
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_24: 3937375030988400653
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_25: 4124834881204094585
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_3: -6149734623228159105
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_4: -781010137060871179
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_5: 1404009459468189918
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_6: -5280170957968602077
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_7: -5578312895587165736
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_8: -6702253746555303532
+      Stickers_to_Match_Your_Personal_Style___Society6-removebg-preview_9: 2848379668497531527
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

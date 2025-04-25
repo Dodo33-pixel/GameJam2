@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 778f6eeeb207e8f418e0687afa5cc61e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8333480773655659497
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_0
+  - first:
+      213: 8058200310742604581
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_1
+  - first:
+      213: 5067492174807109360
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_2
+  - first:
+      213: -7524106407249076912
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_3
+  - first:
+      213: 710309654768198188
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_4
+  - first:
+      213: 7091228473905470049
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_5
+  - first:
+      213: -7055107466424302342
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_6
+  - first:
+      213: 5489294051977806054
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_7
+  - first:
+      213: -2629480268985153878
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_8
+  - first:
+      213: -1295826369655962955
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_9
+  - first:
+      213: -4361354170105468364
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_10
+  - first:
+      213: 2630383022152603694
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_11
+  - first:
+      213: -3440016457130110809
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_12
+  - first:
+      213: -1864940864328710561
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_13
+  - first:
+      213: -5217233745955971829
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_14
+  - first:
+      213: 4157188559445508268
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_15
+  - first:
+      213: -7963189078538649357
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_16
+  - first:
+      213: -6787190652685937180
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_17
+  - first:
+      213: 7029923327024165366
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_18
+  - first:
+      213: -234461811254626896
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_19
+  - first:
+      213: -9217910339960244486
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_20
+  - first:
+      213: 1538328390171101818
+    second: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 232
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cf4b79367895c80800000000000000
+      internalID: -8333480773655659497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 94
+        width: 87
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b51ca0d7a74df60800000000000000
+      internalID: 8058200310742604581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 58
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe0375c849535640800000000000000
+      internalID: 5067492174807109360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 97
+        width: 58
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d9da74611059790800000000000000
+      internalID: -7524106407249076912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 97
+        width: 118
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c222dfc1ed68bd900800000000000000
+      internalID: 710309654768198188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 154
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a5540e9ba196260800000000000000
+      internalID: 7091228473905470049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 172
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c29b8329371e90800000000000000
+      internalID: -7055107466424302342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 160
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e04dc35bd3ed2c40800000000000000
+      internalID: 5489294051977806054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 87
+        width: 82
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6cd3f70a5328bd0800000000000000
+      internalID: -2629480268985153878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 150
+        width: 37
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2821a48cc440ee0800000000000000
+      internalID: -1295826369655962955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ae13f5d7b5973c0800000000000000
+      internalID: -4361354170105468364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 11
+        width: 28
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28df9a1c6ff08420800000000000000
+      internalID: 2630383022152603694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 11
+        width: 53
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0134b124b9240d0800000000000000
+      internalID: -3440016457130110809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 122
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56c39e2a266e16e0800000000000000
+      internalID: -1864940864328710561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 9
+        width: 42
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d1d16dc89a897b0800000000000000
+      internalID: -5217233745955971829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 91
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0411618fc41b930800000000000000
+      internalID: 4157188559445508268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 91
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f00f6e49b11d7190800000000000000
+      internalID: -7963189078538649357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 246
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e59dcbbf0e0fc1a0800000000000000
+      internalID: -6787190652685937180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 35
+        width: 124
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1f181150e4f8160800000000000000
+      internalID: 7029923327024165366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 12
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5f5c299360fbcf0800000000000000
+      internalID: -234461811254626896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 11
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af6f4476267631080800000000000000
+      internalID: -9217910339960244486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 11
+        width: 106
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0c0c358d395510800000000000000
+      internalID: 1538328390171101818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_0: -8333480773655659497
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_1: 8058200310742604581
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_10: -4361354170105468364
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_11: 2630383022152603694
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_12: -3440016457130110809
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_13: -1864940864328710561
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_14: -5217233745955971829
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_15: 4157188559445508268
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_16: -7963189078538649357
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_17: -6787190652685937180
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_18: 7029923327024165366
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_19: -234461811254626896
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_2: 5067492174807109360
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_20: -9217910339960244486
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_21: 1538328390171101818
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_3: -7524106407249076912
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_4: 710309654768198188
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_5: 7091228473905470049
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_6: -7055107466424302342
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_7: 5489294051977806054
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_8: -2629480268985153878
+      jesus-campos-jimenez-nerkin-capilla-niveles-decoracion-artstation-removebg-preview_9: -1295826369655962955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
